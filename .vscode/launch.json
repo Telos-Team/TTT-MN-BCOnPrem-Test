@@ -2,6 +2,19 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "My Secret Server",
+            "type": "al",
+            "request": "launch",
+            "server": "http://localhost",
+            "serverInstance": "BC130",
+            "port": 13049,
+            "authentication": "Windows",
+            "startupObjectId": 21,
+            "startupObjectType": "Page",
+            "breakOnError": true,
+            "breakOnRecordWrite": false
+        },
+        {
             "type": "al",
             "request": "launch",
             "name": "Your own server",
