@@ -1,0 +1,11 @@
+{
+    "name": "TTTMN",
+    "description": "Hide what I hate",
+    "rules": [
+        {
+            "id": "AL1027",
+            "action": "None",
+            "justification": "Justification"
+        }
+    ]
+}

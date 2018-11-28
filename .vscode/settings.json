@@ -1,0 +1,11 @@
+{
+    "al.packageCachePath": "./.alpackages",
+    "al.enableCodeAnalysis": true,
+    "al.codeAnalyzers": [
+        "${AppSourceCop}",
+        "${CodeCop}",
+        "${PerTenantExtensionCop}",
+        "${UICop}"
+    ],
+    "al.ruleSetPath": "MyRules.ruleset.json"
+}

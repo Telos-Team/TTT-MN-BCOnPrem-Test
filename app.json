@@ -10,7 +10,7 @@
   "help": "",
   "url": "",
   "logo": "",
-  "target": "Internal",
+  "target": "Extension",
   "capabilities": [],
   "dependencies": [],
   "screenshots": [],
@@ -20,5 +20,8 @@
     "from": 50100,
     "to": 50149
   },
-  "runtime": "2.1"
+  "runtime": "2.1",
+  "features": [
+    "TranslationFile"
+  ]
 }
